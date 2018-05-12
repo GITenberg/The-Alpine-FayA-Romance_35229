@@ -1,0 +1,45 @@
+_repo: The-Alpine-FayA-Romance_35229
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wister, A. L. (Annis Lee)
+    aliases:
+    - Wister, A.L.
+    - Wister, Annis Lee
+    - Furness, Annis Lee
+    - Wister, Mrs. A. L.
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '37305'
+    url: http://www.gutenberg.org/2009/agents/37305
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Werner, E.
+    aliases:
+    - Werner, Elisabeth
+    - Werner, Ernest
+    - Bürstenbinder, Elisabeth
+    - Burstenbinder, Elisabeth
+    birthdate: 1838
+    deathdate: 1918
+    gutenberg_agent_id: '7823'
+    url: http://www.gutenberg.org/2009/agents/7823
+    wikipedia: http://de.wikipedia.org/wiki/Elisabeth_B%C3%BCrstenbinder
+description: ''
+gutenberg_issued: '2011-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Alps -- Fiction'
+title: 'The Alpine Fay: A Romance'
+url: http://www.gutenberg.org/ebooks/35229
